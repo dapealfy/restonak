@@ -3,7 +3,7 @@ header {
   justify-content: flex-end;
   align-items: center;
   padding: 30px 2%;
-  background-color: #24252a;
+  background-color: rgb(207, 76, 76);
 }
 
 li,
@@ -11,14 +11,12 @@ a,
 button {
   font-weight: 500;
   font-size: 16px;
-  color: #edf0f1;
+  color: #bdbdbd;
   text-decoration: none;
-  background-color: #24252a;
 }
 
 .navbar {
   list-style: none;
-  background-color: #24252a;
 }
 
 .navbar li {
@@ -31,7 +29,7 @@ button {
 }
 
 .active {
-  color: #0268a9;
+  color: white;
 }
 
 button {
